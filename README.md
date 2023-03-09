@@ -1,5 +1,7 @@
 # Cereals Data Analysis
 
+This is my capstone project for Google Data Analytics Certification from Coursera.
+
 ## Dataset
 
 Dataset source: [Kaggle](https://www.kaggle.com/datasets/crawford/80-cereals)
